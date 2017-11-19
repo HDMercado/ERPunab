@@ -1,6 +1,7 @@
 @extends('layout')
 
 @section('contenido')
+<form method="POST" action="add/form">
 <table class="table table-striped"> 
   <thead>
     <tr>
