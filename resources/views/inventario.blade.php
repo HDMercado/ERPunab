@@ -14,32 +14,43 @@
   <thead>
     <tr>
       <th>#</th>
-      <th>First Name</th>
-      <th>Last Name</th>
-      <th>Username</th>
+      <th>Nombre producto</th>
+      <th>Cantidad</th>
+      <th>Valor c/u</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
+      <td>Silla</td>
+      <td>30</td>
+      <td>130000</td>
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
+      <td>mouse</td>
+      <td>50</td>
+      <td>15000</td>
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td>Larry</td>
-      <td>the Bird</td>
-      <td>@twitter</td>
+      <td>Teclado</td>
+      <td>45</td>
+      <td>125000</td>
+    </tr>
+    <th scope="row">4</th>
+      <td>Pantalla</td>
+      <td>30</td>
+      <td>100000</td>
+    </tr>
+    <th scope="row">5</th>
+      <td>Gabinete</td>
+      <td>15</td>
+      <td>130000</td>
     </tr>
   </tbody>
 </table>
 </div>
 
 @stop
+
